@@ -1,0 +1,8 @@
+<Page loaded="loaded">
+    <StackLayout>
+        <Image src="res://logo" stretch="none" horizontalAlignment="center"/>
+        <TextField text="{{ email }}" id="email" hint="อีเมล์" keyboardType="email" autocorrect="false" autocapitalizationType="none" />
+        <TextField text="{{ password }}" secure="true" hint="รหัสผ่าน" />
+        <Button text="ลงทะเบียน" tap="register" />
+    </StackLayout>
+</Page>

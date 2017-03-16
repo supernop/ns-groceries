@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\project\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\icon.png",
+        "source": "E:\\project\\Groceries\\platforms\\android\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\project\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\ic_menu_delete.png",
+        "source": "E:\\project\\Groceries\\platforms\\android\\src\\main\\res\\drawable-hdpi\\ic_menu_delete.png"
+    },
+    {
+        "merged": "E:\\project\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\logo.png",
+        "source": "E:\\project\\Groceries\\platforms\\android\\src\\main\\res\\drawable-hdpi\\logo.png"
+    }
+]
