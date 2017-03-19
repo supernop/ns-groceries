@@ -1,0 +1,7 @@
+<Page loaded="loaded">    
+   <StackLayout orientation="vertical">
+   <Label text="เมนูจัดการผู้ใช้" class="text-center" />
+        <Button text="ถ่ายรูปงาน" class="link" tap="photo"/>
+        <Button text="เวลา" class="link" tap="time1"/>
+    </StackLayout>
+</Page>

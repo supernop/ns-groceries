@@ -1,4 +1,8 @@
 {
+    "knock-knock-jokes": true,
+    "moment": true,
+    "nativescript-camera": true,
+    "nativescript-sound": true,
     "nativescript-theme-core": true,
     "tns-core-modules": true,
     "tns-core-modules-widgets": true

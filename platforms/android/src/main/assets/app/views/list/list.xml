@@ -1,3 +1,15 @@
-<Page>
-<Image src="~/images/apple.jpg"></Image>
+<Page loaded="pageLoad">
+<StackLayout>
+<label text="รายชื่อผู้จัดทำ" />
+<Image src="~/images/apple.jpg" height="170" width="170"/>
+<ListView items="{{ list }}">
+    <ListView.itemTemplate>
+       <StackLayout orientation="horizontal">
+           <Label class="qty" text="{{ qty }}"/>
+           <Label class="name" text="{{ name }}"/>
+        </StackLayout>        
+    </ListView.itemTemplate>
+
+</ListView>
+</StackLayout>
 </Page>

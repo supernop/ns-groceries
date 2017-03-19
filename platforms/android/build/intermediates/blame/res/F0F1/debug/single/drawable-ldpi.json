@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\project\\Ceremony\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-ldpi\\ic_menu_delete.png",
+        "source": "E:\\project\\Ceremony\\platforms\\android\\src\\main\\res\\drawable-ldpi\\ic_menu_delete.png"
+    },
+    {
+        "merged": "E:\\project\\Ceremony\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-ldpi\\logo.png",
+        "source": "E:\\project\\Ceremony\\platforms\\android\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "E:\\project\\Ceremony\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1\\debug\\drawable-ldpi\\icon.png",
+        "source": "E:\\project\\Ceremony\\platforms\\android\\src\\main\\res\\drawable-ldpi\\icon.png"
+    }
+]

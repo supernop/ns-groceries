@@ -1,0 +1,9 @@
+<Page loaded="loaded">    
+   <StackLayout orientation="vertical">
+   <Label text="เมนูตรวจสอบการเข้าใช้" class="text-center" />
+        <TextField id="email" hint="ชื่อผู้ใช้" keyboardType="email" autocorrect="false" autocapitalizationType="none" text="{{ email }}" />
+        <TextField id="pass" hint="รหัสผ่าน" secure="true" text="{{ pass }}"/>
+        <Button text="เข้าสู่ระบบ" class="link" tap="CLogin"/>
+        <Button text="ยกเลิก" class="link" tap="cl"/>
+    </StackLayout>
+</Page>

@@ -1,0 +1,8 @@
+<Page loaded="pageLoaded">
+<StackLayout>
+    <Image row="3"/>
+        <Button row="56"/>
+            <Image src="~/images/logo.png" height="170" width="170"/>
+                <Button text ="เข้าสู่ระบบ" tap="menu" />
+</StackLayout>
+</Page>

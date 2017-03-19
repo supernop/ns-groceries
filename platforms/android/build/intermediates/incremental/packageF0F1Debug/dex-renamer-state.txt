@@ -1,0 +1,4 @@
+#Sat Mar 18 19:25:26 ICT 2017
+base.0=E\:\\project\\Ceremony\\platforms\\android\\build\\intermediates\\transforms\\dex\\F0F1\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\project\\Ceremony\\platforms\\android\\build\\intermediates\\transforms\\dex\\F0F1\\debug\\folders\\1000\\1f\\main\\classes.dex

@@ -1,0 +1,12 @@
+<!--<Page>
+<Label text="{{ timestamp }}"/>;
+<TextField text="{{ timestamp }}"/>
+</Page>-->
+<Page loaded="loaded">
+    <StackLayout>
+        <Button text="ตลกของฉัน" tap="generateJoke" />
+        <Label text="{{ joke }}" textWrap="true" />
+        <Label text="{{ timestamp }}" cssClass="red" />
+        <Label text="{{ date }}" cssClass="red" />
+    </StackLayout>
+</Page>

@@ -3,14 +3,21 @@ ListView {
 }
 Label {
     margin: 10;
-    horizontal-align: left;
-    vertical-align: center;
+    /*vertical-align: middle;*/
 }
 TextField {
     border-width: 5;
     border-style: solid;
     border-color: #034793;
 }
-Image {
+/*Image {
     margin: 10;
+}*/
+
+.name{
+    width: 90%;
+}
+
+.qty{
+    width: 5%;
 }

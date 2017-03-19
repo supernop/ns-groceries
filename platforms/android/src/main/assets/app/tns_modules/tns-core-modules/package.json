@@ -10,7 +10,7 @@
         "spec": "next",
         "type": "tag"
       },
-      "E:\\project\\Groceries"
+      "E:\\project\\Ceremony"
     ]
   ],
   "_from": "tns-core-modules@next",
@@ -45,7 +45,7 @@
   "_shasum": "d9c35bbee0fe89cfb989111bcc5ae5db99a46d33",
   "_shrinkwrap": null,
   "_spec": "tns-core-modules@next",
-  "_where": "E:\\project\\Groceries",
+  "_where": "E:\\project\\Ceremony",
   "dependencies": {
     "tns-core-modules-widgets": "next"
   },

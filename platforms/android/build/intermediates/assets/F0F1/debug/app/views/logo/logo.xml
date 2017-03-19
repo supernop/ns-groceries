@@ -1,0 +1,15 @@
+<Page loaded="pageLoaded">
+<StackLayout>
+    <Image row="3"/>
+        <Button row="56"/>
+            <Image src="~/images/apple.jpg" height="170" width="170"/>
+                <Button text ="เข้าสู่ระบบ" tap="menu" />
+<!--<Image row="2" />
+<Button row="5" />-->
+<!--<Image src="~/images/2ndfloor.jpg" height="200" width="200"/>
+<Button text ="hiya" tap="tapAction"/>-->
+</StackLayout>
+  <!--<ActionBar title="app test native script" class="action-bar" ></ActionBar>
+    <Image src="~/images/apple.jpg"></Image>
+    <Button text="เข้าสู่ระบบ" class="link" tap="menu"/>-->-->
+</Page>

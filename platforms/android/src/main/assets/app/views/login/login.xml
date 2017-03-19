@@ -1,12 +1,10 @@
 <Page loaded="loaded">    
     <StackLayout orientation="vertical">
-   <Label text="โปรแกรมช่วยจำเงินค่าทำบุญช่วยงานต่างๆ" /> 
-    <!--<TextField id="email" text="{{ email }}" hint="Email Address" keyboardType="email" autocorrect="false" autocapitalizationType="none" />
-    <TextField secure="true" id=pass text="{{ pass }}" hint="Password" />-->
-        <TextField id="email" hint="ชื่อผู้ใช้" keyboardType="email" autocorrect="false" autocapitalizationType="none" text="{{ email }}" />
-        <TextField id="pass" hint="รหัสผ่าน" secure="true" text="{{ pass }}"/>
-        <Button text="เข้าสู่ระบบ" tap="show"/>
-        <Button text="ลงทะเบียน" class="link" tap="register"/>
-        <Button text="ยกเลิก" class="link" tap="cl"/>
+   <Label text="โปรแกรมช่วยจำเงินค่าทำบุญช่วยงานต่างๆ" />
+   <Image src="~/images/logo.png" height="170" width="170"/> 
+        <Button text="ผู้ใช้งานเก่า" class="link" tap="checkLogin"/>
+        <Button text="ผู้ใช้ใหม่(ลงทะเบียนก่อน)่" class="link" tap="register"/>
+        <Button text="รายชื่อผู้สร้างแอพ" class="link" tap="list"/>
+        <Button text="ออกจากโปรแกรม" class="link" tap="exi"/>
     </StackLayout>
 </Page>
